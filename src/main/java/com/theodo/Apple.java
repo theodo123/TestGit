@@ -6,8 +6,4 @@ public class Apple {
 	private long num;
 	
 	
-	private double num;
-	
-	
-	
 }
