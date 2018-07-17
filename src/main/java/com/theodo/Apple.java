@@ -4,4 +4,8 @@ public class Apple {
 
 	private String name;
 	
+	private double num;
+	
+	
+	
 }
